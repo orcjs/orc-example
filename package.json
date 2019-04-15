@@ -1,0 +1,29 @@
+{
+  "name": "orc-example",
+  "version": "0.0.1",
+  "description": "orc example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orcjs/orc-example.git"
+  },
+  "keywords": [
+    "orc",
+    "orcjs"
+  ],
+  "author": {
+    "name": "余树",
+    "email": "fe.lizhoukai@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orcjs/orc-example/issues"
+  },
+  "homepage": "https://github.com/orcjs/orc-example#readme",
+  "dependencies": {
+    "orcjs": "^0.0.4"
+  }
+}
