@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/orcjs/orc-example#readme",
   "dependencies": {
-    "orcjs": "^0.0.4"
+    "orcjs": "^0.0.6"
   }
 }

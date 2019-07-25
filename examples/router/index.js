@@ -1,4 +1,4 @@
-const Router = require('orcjs/middleware/orc-router')
+const Router = require('../../middleware/orc-router')
 const router = new Router()
 
 router.get('/list', async ctx => {
@@ -8,7 +8,7 @@ router.get('/list', async ctx => {
       age: 12
     },
     {
-      name: 'tom',
+      name: '哈哈哈',
       age: 20
     }
   ]
@@ -24,7 +24,7 @@ router.get('/api/user', async ctx => {
   ctx.body = {
     code: '0',
     data: {
-      name: 'Aomine',
+      name: '彭于晏',
       age: 18,
       address: 'HangZhou'
     }
